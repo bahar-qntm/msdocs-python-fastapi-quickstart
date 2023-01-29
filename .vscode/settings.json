@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
         "myapp"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5bb83e23-d546-4dc2-8666-78050a562dbf/AppServices/subscriptions/5bb83e23-d546-4dc2-8666-78050a562dbf/resourceGroups/Aperon/providers/Microsoft.Web/sites/KnowYourWeed-fastAPI",
+    "appService.deploySubpath": "."
 }
